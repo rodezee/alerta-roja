@@ -6,3 +6,8 @@
 [rumble.com/c/c-7902230](https://rumble.com/c/c-7902230)
 
 ![Alerta Roja QR Image](AlertaRojaQRImage.png)
+
+[📄 PDF - Abusan sexualmente de niños](abusan-sexualmente-de-niños.pdf)
+
+[📄 PDF - Poster](alerta-roja-poster.pdf)
+
