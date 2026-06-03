@@ -7,7 +7,7 @@
 
 ![Alerta Roja QR Image](AlertaRojaQRImage.png)
 
-[📄 PDF - Abusan sexualmente de niños](abusan-sexualmente-de-niños.pdf)
+[📄 PDF - Abusan sexualmente de niños](https://raw.githubusercontent.com/rodezee/alerta-roja/refs/heads/main/abusan-sexualmente-de-niños.pdf)
 
-[📄 PDF - Poster](alerta-roja-poster.pdf)
+[📄 PDF - Poster](https://raw.githubusercontent.com/rodezee/alerta-roja/refs/heads/main/alerta-roja-poster.pdf)
 
